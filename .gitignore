@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+database/*.db
+mlruns/
+mlartifacts/
+data/processed/*.csv
+data/streaming/*.csv
+models/model_registry/*.joblib
+models/model_registry/registry.json
